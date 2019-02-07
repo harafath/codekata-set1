@@ -1,3 +1,4 @@
-N = int(raw_input())
-for i in xrange(N):
-    print "hello world"
+a="hello \n"
+b=int(input(" Enter the number:"))
+i=a*b
+print (i)
