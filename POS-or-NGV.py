@@ -2,6 +2,6 @@ num = float(input(""))
 if num > 0:
    print("Positive")
 elif num == 0:
-   print("Zero")
+   print("Zer0")
 else:
    print("Negative")
